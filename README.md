@@ -1,5 +1,5 @@
 Hi, I'm Anubhav 👋
 
-- Web Developer & Machine Learning Enthusiast.
+- Software Developer & Machine Learning Enthusiast.
 - Currently learning DSA, System Design & Machine Learning.
 - Reach me: anubhavjha0812@gmail.com
